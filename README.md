@@ -16,7 +16,7 @@ a PR (Pull Request). We will do our best to update this document up to date.
 # Table of Contents
 
 1. [Understanding Virtual ICSE](#understanding-virtual-icse)
-1. [ICSE Live! Team](#icse-live!-team)
+1. [ICSE Live! Team](#icse-live-team)
 1. [SV Types](#sv-types)
 1. [SV Chairs](#sv-chairs)
 1. [Slack for All Communication](#slack-for-all-communication)
