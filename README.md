@@ -66,8 +66,8 @@ offline SVs.
 SV chairs lead the overall organization of SVs and interface with the general
 chair and live teams. Contact SV chairs in your time band.
 
-- Pacific Time Band: [FIXME](FIXME)
-- Indian (Asian) Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
+- Pacific Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
+- Indian (Asian) Time Band: [José Miguel Rojas](http://jmrojas.github.io/)
 - Atlantic Time Band: [Hamid Bagheri](https://cse.unl.edu/~hbagheri/)
 
 ## Slack for All Communication
@@ -113,12 +113,12 @@ Live casting helpers are in charge of the followings:
 We will assign one or two SV(s) for managing a virtual help desk. The help desk
 runs for 8 hours for each time band.
 
-- Pacific time band: 00:00 - 8:00 UTC
-- Indian time band: 08:00 - 16:00 UTC
-- Atlantic time band: 16:00 - 24:00 UTC
+- Pacific time band: 22:00 - 6:00 UTC
+- Indian time band: 06:00 - 14:00 UTC
+- Atlantic time band: 14:00 - 22:00 UTC
 
-The main role of help desk manager is to handle FAQs during the live
-broadcasting.
+The main role of help desk manager is to handle questions and troubleshoot
+frequently occuring problems.
 
 (TODO: fill me)
 
@@ -132,6 +132,10 @@ The main conference hashtag is `#icse2020`.
 
 ### Offline SV
 
+Offline SVs work offline to help edit and upload videos to youtube.
+
 (TODO: fill me)
 
 ## FAQs
+
+(TODO: fill me)
