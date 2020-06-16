@@ -17,6 +17,7 @@ a PR (Pull Request). We will do our best to update this document up to date.
 
 1. [Understanding Virtual ICSE](#understanding-virtual-icse)
 1. [ICSE Live! Team](#icse-live-team)
+1. [SV Shift Plan](#sv-shift-plan)
 1. [SV Types](#sv-types)
 1. [SV Chairs](#sv-chairs)
 1. [Slack for All Communication](#slack-for-all-communication)
@@ -47,13 +48,28 @@ confused with the ones of Live! Team.
 To understand how the ICSE Live! Teams operate, see
 [this](https://github.com/crista/icse2020-live).
 
+## SV Shift Plan
+
+We run three shifts for 24 hours, 8-hour each.
+
+- Pacific time shift: 22:00 - 6:00 UTC
+    - This includes the Pacific time band (00:00 - 03:00 UTC)
+    - SVs here will work with the Pacific team.
+- Indian time shift: 06:00 - 14:00 UTC
+    - This includes the Indian time band (07:00 - 10:00 UTC)
+    - SVs here will work with the Indian team.
+- Atlantic time shift: 14:00 - 22:00 UTC
+    - This includes the Atlantic time band (15:00 - 18:00 UTC)
+    - SVs here will work with the Atlantic team.
+
 ## SV Types
 
 Unlike traditional conferences, we divide SVs into two groups: online SVs, and
 offline SVs.
 
 - *Online SVs* work closely with a regional [ICSE Live!
-  team](#icse-live-team). We will assign Online SVs based on which time band
+  team](#icse-live-team). Online SVs will work in one of the three
+  [shifts](#sv-shift-plan). We will assign Online SVs based on which time band
   they belong to. For example, SVs in the Pacific time band will work with the
   Pacific team.
 
@@ -64,7 +80,7 @@ offline SVs.
 ## SV Chairs
 
 SV chairs lead the overall organization of SVs and interface with the general
-chair and live teams. Contact SV chairs in your time band.
+chair and live teams. Contact the SV chair in your time band whenever necessary.
 
 - Pacific Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
 - Indian (Asian) Time Band: [José Miguel Rojas](http://jmrojas.github.io/)
@@ -81,9 +97,9 @@ SVs.
 Please join the following channels ASAP.
 
 - `#sv-general` is the main form of communication.
-- `#sv-pacific` is ... (TODO: let's see if these are necessary)
-- `#sv-indian` is ...
-- `#sv-atlantic` is ...
+- `#sv-pacific` is for online SVs in the Pacific shift.
+- `#sv-indian` is for online SVs in the Indian shift.
+- `#sv-atlantic` is for online SVs in the Atlantic shift.
 
 ### Slack Display Name
 
@@ -107,15 +123,16 @@ Live casting helpers are in charge of the followings:
 - Keep track of the time and let the session chair know (via Slack) if a talk
   goes too long.
 - Arrange questions from Slack and Slido and give them to the session chair.
+- Check if all the attendees are registered (check free riders).
 
 #### Help Desk Manager
 
 We will assign one or two SV(s) for managing a virtual help desk. The help desk
-runs for 8 hours for each time band.
+runs for 24 hours through the [three shifts](#sv-shift-plan):
 
-- Pacific time band: 22:00 - 6:00 UTC
-- Indian time band: 06:00 - 14:00 UTC
-- Atlantic time band: 14:00 - 22:00 UTC
+- Pacific time shift: 22:00 - 6:00 UTC
+- Indian time shift: 06:00 - 14:00 UTC
+- Atlantic time shift: 14:00 - 22:00 UTC
 
 The main role of help desk manager is to handle questions and troubleshoot
 frequently occuring problems.
@@ -124,7 +141,7 @@ frequently occuring problems.
 
 #### Social Media Helper
 
-We will assign zero or one SV (depending on the resource). The main role of
+We will assign zero or more SV (depending on the resource). The main role of
 social media helper is to advertise talks on social media. You can use your
 personal account, or create a new one just for ICSE.
 
@@ -138,4 +155,9 @@ Offline SVs work offline to help edit and upload videos to youtube.
 
 ## FAQs
 
-(TODO: fill me)
+- When do my duties finish?
+    - We expect you to be available during your shift (i.e., for 8 hours). If
+      your main role is end, then we will assign you something else. Please
+      remain online in Slack.
+
+- (TODO: FILL ME)
