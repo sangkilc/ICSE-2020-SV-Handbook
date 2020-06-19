@@ -173,7 +173,7 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
     * SV3, SV4, SV5
         - Take questions from the `#help` channel.
         - If necessary, you will make an individual connection with a person and
-          trouble shoot their needs (mostly audio/video problems).
+          troubleshoot their problems (mostly audio/video issues).
 
 - `T2`: Live casting runs (same as T1)
 
