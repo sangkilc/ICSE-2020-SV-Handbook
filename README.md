@@ -104,9 +104,10 @@ Please join the following channels ASAP.
 
 ### Slack Display Name
 
-To indicate you are an SV, you will have to change your display name to have a
-prefix `[SV]`. For example, if your name is John Doe, then your display name
-should become `[SV] John Doe`.
+To indicate you are an SV, you have to change your Slack status with the SV icon
+(`:sv:`). For example, see the image below:
+
+![](pictures/svstatus.png).
 
 ## Description of SV Tasks
 
@@ -143,9 +144,8 @@ The main conference hashtag is `#icse2020`.
 
 ### Offline SV
 
-Offline SVs work offline to help edit and upload videos to youtube.
-
-(TODO: fill me)
+Offline SVs work offline to help edit and upload videos to youtube. Therefore
+offline SVs are not bound to any specific time band.
 
 ## Example Scenario
 
@@ -160,9 +160,10 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
 
 - `T1`: Live casting starts
     * SV0, SV1, SV2 (one SV per each parallel session)
-        - Monitor questions in Slack and Slido.
-        - For each talk, summarize questions and pass them to the session chair
-          via Slack.
+        - Clean up Slido questions before each talk begins.
+        - Monitor both Slack and Slido, and check if there is any question from
+          Slack, which is not added to Slido. If so, add it to Slido.
+        - Clean up Slido questions whenever they are answered by the speaker.
         - Monitor the time of each talk and let the session chair know if the
           talk goes too long.
     * SV3, SV4, SV5
