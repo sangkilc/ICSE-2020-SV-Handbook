@@ -114,37 +114,30 @@ Both online and offline SVs have their own expected tasks.
 
 ### Online SV
 
-#### Live Casting Helper
+#### Helping Live Casting
 
-We will assign two live casting helpers per session. If there are three parallel
-sessions at the same time, we will assign a total of six SVs for this task.
-
-Live casting helpers are in charge of the followings:
 - Make sure all the speakers are connected before a session start.
 - Keep track of the time and let the session chair know (via Slack) if a talk
   goes too long.
 - Arrange questions from Slack and Slido and give them to the session chair.
 - Check if all the attendees are registered (check free riders).
 
-#### Help Desk Manager
+#### Managing 24-hour Help Desk
 
-We will assign one or two SV(s) for managing a virtual help desk. The help desk
-runs for 24 hours through the [three shifts](#sv-shift-plan):
+We manage a virtual help desk, which runs for 24 hours through the [three
+shifts](#sv-shift-plan):
 
 - Pacific time shift: 22:00 - 6:00 UTC
 - Indian time shift: 06:00 - 14:00 UTC
 - Atlantic time shift: 14:00 - 22:00 UTC
 
-The main role of help desk manager is to handle questions and troubleshoot
-frequently occuring problems.
+SVs should handle questions and troubleshoot frequently occuring problems (such
+as audio/video issues) with speakers and participants.
 
-(TODO: fill me)
+#### Using Social Media
 
-#### Social Media Helper
-
-We will assign zero or more SV (depending on the resource). The main role of
-social media helper is to advertise talks on social media. You can use your
-personal account, or create a new one just for ICSE.
+SVs should also advertise talks on social media whenever it is possible. You can
+use your personal account, or create a new one just for ICSE.
 
 The main conference hashtag is `#icse2020`.
 
@@ -170,10 +163,13 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
         - Monitor questions in Slack and Slido.
         - For each talk, summarize questions and pass them to the session chair
           via Slack.
+        - Monitor the time of each talk and let the session chair know if the
+          talk goes too long.
     * SV3, SV4, SV5
         - Take questions from the `#help` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
+        - If you have spare time, then advertise talks on social media.
 
 - `T2`: Live casting runs (same as T1)
 
