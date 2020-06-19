@@ -22,6 +22,7 @@ a PR (Pull Request). We will do our best to update this document up to date.
 1. [SV Chairs](#sv-chairs)
 1. [Slack for All Communication](#slack-for-all-communication)
 1. [Description of SV Tasks](#description-of-sv-tasks)
+1. [Example Scenario](#example-scenario)
 1. [FAQs](#faqs)
 
 ## Understanding Virtual ICSE
@@ -152,6 +153,39 @@ The main conference hashtag is `#icse2020`.
 Offline SVs work offline to help edit and upload videos to youtube.
 
 (TODO: fill me)
+
+## Example Scenario
+
+This example shows how each SV will do during an 8-hour-long shift. We assume
+there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
+
+- T0: 1 hour before casting
+    * All the SVs (SV0, ..., SV5)
+        - Join the `#help` channel of Slack, and handle questions.
+        - Join the virtual room (channel) of Slack that you are assigned to.
+        - Know the names of your session chairs.
+
+- T1: Live casting starts
+    * SV0, SV1, SV2 (one SV per each parallel session)
+        - Monitor questions in Slack and Slido.
+        - For each talk, summarize questions and pass them to the session chair
+          via Slack.
+    * SV3, SV4, SV5
+        - Take questions from the `#help` channel.
+        - If necessary, you will make an individual connection with a person and
+          trouble shoot their needs (mostly audio/video problems).
+
+- T2: Live casting runs (same as T1)
+
+- T3: Live casting runs (same as T1)
+
+- T4: No live casting
+    * One SV (e.g., SV0) will take care of the `#help` channel from now on until
+      the end of T7.
+
+- T5: No live casting (same as T4)
+- T6: No live casting (same as T4)
+- T7: No live casting (same as T4)
 
 ## FAQs
 
