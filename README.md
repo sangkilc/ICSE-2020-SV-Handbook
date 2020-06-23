@@ -65,8 +65,8 @@ We run three shifts for 24 hours, 8-hour each.
 
 ## SV Types
 
-Unlike traditional conferences, we divide SVs into two groups: online SVs, and
-offline SVs.
+Unlike traditional conferences, we divide SVs into three groups: online SVs,
+offline SVs, and CLE SVs.
 
 - *Online SVs* work closely with a regional [ICSE Live!
   team](#icse-live-team). Online SVs will work in one of the three
@@ -77,6 +77,9 @@ offline SVs.
 - *Offline SVs* work asynchronously to help edit videos, and upload videos to
   either youtube or iQIYI. Therefore, offline SVs do not need to be bound to a
   specific time zone.
+
+- *CLE SVs* support CLEs (Co-Located Events), and their work is largely similar
+  to those of online SVs.
 
 ## SV Chairs
 
@@ -146,6 +149,13 @@ The main conference hashtag is `#icse2020`.
 
 Offline SVs work offline to help edit and upload videos to youtube. Therefore
 offline SVs are not bound to any specific time band.
+
+### CLE SV
+
+CLE SVs support co-located conferences, such as MSR, FormaliSE, etc. Therefore,
+their work time largely depends on the schedule of CLEs they support. The main
+tasks of CLE SVs will be mostly the same as the ones of [online SVs](#online-sv):
+their main job is to help session chairs to organize questions, etc.
 
 ## Example Scenario
 
