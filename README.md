@@ -107,6 +107,10 @@ Please join the following channels ASAP.
 - `#sv-offline` is for offline SVs.
 - `#sv-cles` is for CLE SVs.
 
+### Slack Profile
+
+Please set your name correctly, and register your photo.
+
 ### Slack Display Name
 
 To indicate you are an SV, you have to change your Slack status with the SV icon
