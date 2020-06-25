@@ -15,15 +15,27 @@ a PR (Pull Request). We will do our best to update this document up to date.
 
 # Table of Contents
 
-1. [Understanding Virtual ICSE](#understanding-virtual-icse)
-1. [ICSE Live! Team](#icse-live-team)
-1. [SV Shift Plan](#sv-shift-plan)
-1. [SV Types](#sv-types)
-1. [SV Chairs](#sv-chairs)
-1. [Slack for All Communication](#slack-for-all-communication)
-1. [Description of SV Tasks](#description-of-sv-tasks)
-1. [Example Scenario](#example-scenario)
-1. [FAQs](#faqs)
+- [ICSE 2020 Student Volunteer Handbook](#icse-2020-student-volunteer-handbook)
+- [Table of Contents](#table-of-contents)
+  - [Understanding Virtual ICSE](#understanding-virtual-icse)
+  - [ICSE Live! Team](#icse-live-team)
+  - [SV Shift Plan](#sv-shift-plan)
+  - [Schedule and Assignments](#schedule-and-assignments)
+  - [SV Types](#sv-types)
+  - [SV Chairs](#sv-chairs)
+  - [Slack for All Communication](#slack-for-all-communication)
+    - [Slack Channels](#slack-channels)
+    - [Slack Profile](#slack-profile)
+    - [Slack Display Name](#slack-display-name)
+  - [Description of SV Tasks](#description-of-sv-tasks)
+    - [Online SV](#online-sv)
+      - [Helping Live Casting](#helping-live-casting)
+      - [Managing 24-hour Help Desk](#managing-24-hour-help-desk)
+      - [Using Social Media](#using-social-media)
+    - [Offline SV](#offline-sv)
+    - [CLE SV](#cle-sv)
+  - [Example Scenario](#example-scenario)
+  - [FAQs](#faqs)
 
 ## Understanding Virtual ICSE
 
@@ -62,6 +74,33 @@ We run three shifts for 24 hours, 8-hour each.
 - Atlantic time shift: 14:00 - 22:00 UTC
     - This includes the Atlantic time band (15:00 - 18:00 UTC)
     - SVs here will work with the Atlantic team.
+
+## Schedule and Assignments
+
+
+|       	| Pacific time shift                                                                                                                  	| Indian time shift                                                                                                         	| Atlantic time shift                                                                                                                                  	|
+|-------	|-------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Day 1 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Nianyu Li<br>Soumik Mohian<br>Zhiqiang Wu                                          	| Benny Chun<br>Gichan Lee<br>Jiho Shin<br>Jaeseung Choi<br>Mahyar Tourchi Moghaddam<br>Rusen Halepmollasi                  	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchôa<br>Camilo Escobar-Velásquez<br>Cristiano Politowski 	|
+| Day 2 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Shivani Shirolkar<br>Soumik Mohian<br>Zhiqiang Wu                                  	| Nilesh Meshram<br>Qurat ul ain Ali<br>Hyerin Leem<br>Tobias Schwarz<br>Sorour Jahanbin<br>Shiwei Feng                     	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchôa<br>Camilo Escobar-Velásquez<br>Cristiano Politowski 	|
+| Day 3 	| Daye Nam<br>Caio Barbosa Vieira da Silva<br>Mohammad Abdul Hadi<br>Harsha Perera<br>Huilian Sophie<br>Muhammad Umair Khan           	| Gebrehiwet Biyane Welearegai<br>Alfredo Ibias<br>Benny Chun<br>Gichan Lee<br>Glaucia Melo<br>Jiho Shin                    	| Cristiano Politowski<br>David A Nader Palacio<br>Dewi Yokelson<br>Denivan Campos<br>Daniel Tenorio Martins de Oliveira<br>Eduardo Fernandes          	|
+| Day 4 	| Sohil Lal Shrestha<br>Caio Barbosa Vieira da Silva<br>Mohammad Abdul Hadi<br>Harsha Perera<br>Huilian Sophie<br>Muhammad Umair Khan 	| Jaeseung Choi<br>NILESH MESHRAM<br>Qurat ul ain Ali<br>Christoph Matthies<br>Sorour Jahanbin<br>Shiwei Feng               	| Cristiano Politowski<br>David A Nader Palacio<br>Dewi Yokelson<br>Denivan Campos<br>Daniel Tenorio Martins de Oliveira<br>Eduardo Fernandes          	|
+| Day 5 	| Ananga Thapaliya<br>Ahmad Abdellatif<br>Nianyu Li<br>Rishab Sharma<br>Shivani Shirolkar<br>Xin Chen                                 	| Alfredo Ibias<br>Glaucia Melo<br>Minxing Tang<br>Gebrehiwet Biyane Welearegai<br>Rusen Halepmollasi<br>Christoph Matthies 	| Elson Kurian<br>Iván Arcuschin Moreno<br>Zhenhao Li<br>Luana Martins<br>Luiz Carvalho<br>Nathan Cooper                                               	|
+
+- Co-located Events (CLEs)
+  - AST: Renan Greca
+  - MSR: Chua Kiat Kian Anthony and 신승철
+  - FormaliSE: Doyeon Kim
+- Offline SVs
+  - Ana Carla Gomes Bibiano
+	- Agustín E. Martinez Suñé
+	- Miller Andrés Trujillo Achury
+	- Nan Yang
+	- Radu Prekup
+	- Sadura Akinrinwa
+	- Sarah Fakhoury
+	- Saulo Soares de Toledo
+	- Shayan Zamani
+	- Xianhao Jin
 
 ## SV Types
 
