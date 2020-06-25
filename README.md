@@ -128,7 +128,7 @@ chair and live teams. Contact the SV chair in your time band whenever necessary.
 
 - Pacific Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
 - Indian (Asian) Time Band: [José Miguel Rojas](http://jmrojas.github.io/)
-- Atlantic Time Band: [Hamid Bagheri](https://cse.unl.edu/~hbagheri/)
+- Atlantic Time Band: [Hamid Bagheri](https://cse.unl.edu/~hbagheri/) and  [Carolyn Seaman](https://userpages.umbc.edu/~cseaman/)
 
 ## Slack for All Communication
 
