@@ -120,7 +120,7 @@ To indicate you are an SV, you have to change your Slack status with the SV icon
 
 Please make sure to select "don't clear" when you set your status:
 
-![](pictures/svstatus2.png).
+![](pictures/svstatus2.jpg).
 
 ## Description of SV Tasks
 
