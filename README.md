@@ -104,6 +104,8 @@ Please join the following channels ASAP.
 - `#sv-pacific` is for online SVs in the Pacific shift.
 - `#sv-indian` is for online SVs in the Indian shift.
 - `#sv-atlantic` is for online SVs in the Atlantic shift.
+- `#sv-offline` is for offline SVs.
+- `#sv-cles` is for CLE SVs.
 
 ### Slack Display Name
 
