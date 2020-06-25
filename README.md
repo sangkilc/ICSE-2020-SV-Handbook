@@ -92,15 +92,15 @@ We run three shifts for 24 hours, 8-hour each.
   - FormaliSE: Doyeon Kim
 - Offline SVs
   - Ana Carla Gomes Bibiano
-	- Agustín E. Martinez Suñé
-	- Miller Andrés Trujillo Achury
-	- Nan Yang
-	- Radu Prekup
-	- Sadura Akinrinwa
-	- Sarah Fakhoury
-	- Saulo Soares de Toledo
-	- Shayan Zamani
-	- Xianhao Jin
+  - Agustín E. Martinez Suñé
+  - Miller Andrés Trujillo Achury
+  - Nan Yang
+  - Radu Prekup
+  - Sadura Akinrinwa
+  - Sarah Fakhoury
+  - Saulo Soares de Toledo
+  - Shayan Zamani
+  - Xianhao Jin
 
 ## SV Types
 
