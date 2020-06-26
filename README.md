@@ -80,11 +80,11 @@ We run three shifts for 24 hours, 8-hour each.
 
 |       	| Pacific time shift                                                                                                                  	| Indian time shift                                                                                                         	| Atlantic time shift                                                                                                                                  	|
 |-------	|-------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| **July 7** 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Nianyu Li<br>Soumik Mohian<br>Zhiqiang Wu                                          	| Benny Chun<br>Gichan Lee<br>Jiho Shin<br>Jaeseung Choi<br>Mahyar Tourchi Moghaddam<br>Rusen Halepmollasi                  	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchôa<br>Camilo Escobar-Velásquez<br>Cristiano Politowski 	|
-| **July 8** 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Shivani Shirolkar<br>Soumik Mohian<br>Zhiqiang Wu                                  	| Nilesh Meshram<br>Qurat ul ain Ali<br>Hyerin Leem<br>Tobias Schwarz<br>Sorour Jahanbin<br>Shiwei Feng                     	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchôa<br>Camilo Escobar-Velásquez<br>Cristiano Politowski 	|
+| **July 7** 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Nianyu Li<br>Soumik Mohian<br>Zhiqiang Wu                                          	| Benny Chun<br>Gichan Lee<br>Jiho Shin<br>Jaeseung Choi<br>Mahyar Tourchi Moghaddam<br>Rusen Halepmollasi                  	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchoa<br>Camilo Escobar-Velasquez<br>Cristiano Politowski 	|
+| **July 8** 	| Nischal Shrestha<br>Lingjun Liu<br>Haemin Ryu<br>Shivani Shirolkar<br>Soumik Mohian<br>Zhiqiang Wu                                  	| Nilesh Meshram<br>Qurat ul ain Ali<br>Hyerin Leem<br>Tobias Schwarz<br>Sorour Jahanbin<br>Shiwei Feng                     	| Armstrong Foundjem<br>Akalanka Galappaththi<br>Anderson Jose Silva de Oliveira<br>Anderson Uchoa<br>Camilo Escobar-Velasquez<br>Cristiano Politowski 	|
 | **July 9** 	| Daye Nam<br>Caio Barbosa Vieira da Silva<br>Mohammad Abdul Hadi<br>Harsha Perera<br>Huilian Sophie<br>Muhammad Umair Khan           	| Gebrehiwet Biyane Welearegai<br>Alfredo Ibias<br>Benny Chun<br>Gichan Lee<br>Tobias Schwarz<br>Jiho Shin                    	| Cristiano Politowski<br>David A Nader Palacio<br>Dewi Yokelson<br>Denivan Campos<br>Daniel Tenorio Martins de Oliveira<br>Eduardo Fernandes          	|
 | **July 10** 	| Sohil Lal Shrestha<br>Caio Barbosa Vieira da Silva<br>Mohammad Abdul Hadi<br>Harsha Perera<br>Huilian Sophie<br>Muhammad Umair Khan 	| Jaeseung Choi<br>Nilesh Meshram<br>Qurat ul ain Ali<br>Christoph Matthies<br>Sorour Jahanbin<br>Shiwei Feng               	| Cristiano Politowski<br>David A Nader Palacio<br>Dewi Yokelson<br>Denivan Campos<br>Daniel Tenorio Martins de Oliveira<br>Eduardo Fernandes          	|
-| **July 11** 	| Ananga Thapaliya<br>Ahmad Abdellatif<br>Nianyu Li<br>Rishab Sharma<br>Shivani Shirolkar<br>Xin Chen                                 	| Alfredo Ibias<br>Minxing Tang<br>Gebrehiwet Biyane Welearegai<br>Rusen Halepmollasi<br>Christoph Matthies<br>**Volunteer Needed** 	| Elson Kurian<br>Iván Arcuschin Moreno<br>Zhenhao Li<br>Luana Martins<br>Luiz Carvalho<br>Nathan Cooper                                               	|
+| **July 11** 	| Ananga Thapaliya<br>Ahmad Abdellatif<br>Nianyu Li<br>Rishab Sharma<br>Shivani Shirolkar<br>Xin Chen                                 	| Alfredo Ibias<br>Minxing Tang<br>Gebrehiwet Biyane Welearegai<br>Rusen Halepmollasi<br>Christoph Matthies<br>**Volunteer Needed** 	| Elson Kurian<br>Ivan Arcuschin Moreno<br>Zhenhao Li<br>Luana Martins<br>Luiz Carvalho<br>Nathan Cooper                                               	|
 
 - Co-located Events (CLEs)
   - AST: Renan Greca
@@ -93,8 +93,8 @@ We run three shifts for 24 hours, 8-hour each.
   - BotSE: Glaucia Melo
 - Offline SVs
   - Ana Carla Gomes Bibiano
-  - Agustín E. Martinez Suñé
-  - Miller Andrés Trujillo Achury
+  - Agustin E. Martinez Sune
+  - Miller Andres Trujillo Achury
   - Nan Yang
   - Radu Prekup
   - Sadura Akinrinwa
@@ -127,7 +127,7 @@ SV chairs lead the overall organization of SVs and interface with the general
 chair and live teams. Contact the SV chair in your time band whenever necessary.
 
 - Pacific Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
-- Indian (Asian) Time Band: [José Miguel Rojas](http://jmrojas.github.io/)
+- Indian (Asian) Time Band: [Jose Miguel Rojas](http://jmrojas.github.io/)
 - Atlantic Time Band: [Hamid Bagheri](https://cse.unl.edu/~hbagheri/) and  [Carolyn Seaman](https://userpages.umbc.edu/~cseaman/)
 
 ## Slack for All Communication
@@ -250,5 +250,32 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
     - We expect you to be available during your shift (i.e., for 8 hours). If
       your main role is end, then we will assign you something else. Please
       remain online in Slack.
+
+- What kind of tools do we use to organize the virtual conference?
+    - We expect you to use Slido,
+      [Zoom](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials),
+      and Slack. Especially, Slido will be our
+      main Q&A platform. Therefore, you should learn what it is by watching some
+      tutorials such as [this](https://www.youtube.com/watch?v=3jMf_BnZ1B8).
+
+- Do we also use Zoom chat?
+    - No. Our main communication channel should be Slack. We will ignore chats
+      from Zoom.
+
+- Will we use Slack for Q&A?
+    - Yes, but Slido should be the main Q&A platform. One of SV's tasks is to
+      put questions from Slack chats to Slido. Note that we will not use Zoom
+      chat.
+
+- What is a green-room channel?
+    - There is a private slack channel called "green-room". This is where
+      speakers, session chairs, live team members, and SVs will be in; no
+      audience should be in the room. Online SVs will be invited to a green room
+      channel before their shift.
+
+- Where to find the list of attendees? How do we check if audiences are properly
+  registered?
+    - We will distribute a document (potentially a Google doc) before your duty
+      begins.
 
 - (TODO: FILL ME)
