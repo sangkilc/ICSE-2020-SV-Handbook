@@ -87,7 +87,7 @@ We run three shifts for 24 hours, 8-hour each.
 | **July 11** 	| Daye Nam<br>Ahmad Abdellatif<br>Nianyu Li<br>Rishab Sharma<br>Shivani Shirolkar<br>Xin Chen                                 	| Alfredo Ibias<br>Minxing Tang<br>Gebrehiwet Biyane Welearegai<br>Rusen Halepmollasi<br>Christoph Matthies<br>Ananga Thapaliya 	| Elson Kurian<br>Ivan Arcuschin Moreno<br>Zhenhao Li<br>Luana Martins<br>Luiz Carvalho<br>Nathan Cooper                                               	|
 
 - Co-located Events (CLEs)
-  - MSR (10:30 - 17:00 UTC, June 29-30): Chua Kiat Kian Anthony and 신승철
+  - MSR (10:30 - 17:00 UTC, June 29-30): Chua Kiat Kian Anthony and Seungchyul Shin
   - BotSE (15:00-20:00 UTC, July 2): Glaucia Melo
   - FormaliSE (7:00-9:00 & 15:00-17:00 UTC, July 13): Doyeon Kim
   - AST (7:30 - 9:00 UTC & 14:00 - 17:00 UTC, July 15-16): Renan Greca
