@@ -102,6 +102,7 @@ We run three shifts for 24 hours, 8-hour each.
   - Saulo Soares de Toledo
   - Shayan Zamani
   - Xianhao Jin
+  - Didem Yanıktepe
 
 ## SV Types
 
@@ -277,5 +278,3 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
   registered?
     - We will distribute a document (potentially a Google doc) before your duty
       begins.
-
-- (TODO: FILL ME)
