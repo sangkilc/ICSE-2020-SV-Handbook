@@ -27,6 +27,7 @@ a PR (Pull Request). We will do our best to update this document up to date.
     - [Slack Channels](#slack-channels)
     - [Slack Profile](#slack-profile)
     - [Slack Display Name](#slack-display-name)
+  - [Clowdr](#clowdr)
   - [Description of SV Tasks](#description-of-sv-tasks)
     - [Online SV](#online-sv)
       - [Helping Live Casting](#helping-live-casting)
@@ -163,6 +164,22 @@ Please make sure to select "don't clear" when you set your status:
 
 ![](pictures/svstatus2.png).
 
+## Clowdr
+
+All the audiences of ICSE 2020 will be joining
+[Clowdr](https://www.clowdr.org/), which provides a convenient interface for
+virtual conferences. At a high level, Clowdr joins a youtube live video and a
+Slido room in a single page, so that the audiences can easily ask questions
+while watching the video. Once you logged into Clowdr, you will be able to see
+on-going live sessions (by clicking the Sessions button). If you enter one of
+the sessions, then you will be able to see an embeded youtube video in the page
+as well as an embedded Slido form, which can be used to ask questions:
+
+![](pictures/clowdr.png).
+
+As an SV (especially an Online SV), you don't need to use Clowdr, but it is good
+to know how the whole conference is managed.
+
 ## Description of SV Tasks
 
 Both online and offline SVs have their own expected tasks.
@@ -174,7 +191,7 @@ Both online and offline SVs have their own expected tasks.
 - Make sure all the speakers are connected before a session start.
 - Keep track of the time and let the session chair know (via Slack) if a talk
   goes too long.
-- Arrange questions from Slack and Slido and give them to the session chair.
+- Move questions from Slack to Slido, and delete questions before a talk begins.
 - Check if all the attendees are registered (check free riders).
 
 #### Managing 24-hour Help Desk
