@@ -92,6 +92,7 @@ We run three shifts for 24 hours, 8-hour each.
   - BotSE (15:00-20:00 UTC, July 2): Glaucia Melo
   - FormaliSE (7:00-9:00 & 15:00-17:00 UTC, July 13): Doyeon Kim
   - AST (7:30 - 9:00 UTC & 14:00 - 17:00 UTC, July 15-16): Renan Greca
+  - ICPC: Henriette-Flore KENNE
 - Offline SVs
   - Ana Carla Gomes Bibiano
   - Agustin E. Martinez Sune
