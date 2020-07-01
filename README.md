@@ -178,8 +178,9 @@ as well as an embedded Slido form, which can be used to ask questions:
 
 ![](pictures/clowdr.png).
 
-As an SV (especially an Online SV), you don't need to use Clowdr, but it is good
-to know how the whole conference is managed.
+Note that Clowdr has its own chat rooms (this is different from Slack
+channels). Therefore, SVs should monitor both Clowdr and Slack chat during a
+live casting.
 
 ## Description of SV Tasks
 
