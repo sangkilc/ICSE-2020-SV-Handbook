@@ -233,7 +233,8 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
 
 - `T0`: 1 hour before casting
     * All the SVs (SV0, ..., SV5)
-        - Join the `#help` channel of Slack, and handle questions.
+        - Join the `#help` and `#technical-support` channel of Slack, and handle
+          questions.
         - Join the virtual room (channel) of Slack that you are assigned to.
         - Know the names of your session chairs.
 
@@ -246,7 +247,7 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
         - Monitor the time of each talk and let the session chair know if the
           talk goes too long.
     * SV3, SV4, SV5
-        - Take questions from the `#help` channel.
+        - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
         - If you have spare time, then advertise talks on social media.
@@ -256,8 +257,8 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
 - `T3`: Live casting runs (same as T1)
 
 - `T4`: No live casting
-    * One SV (e.g., SV0) will take care of the `#help` channel from now on until
-      the end of T7.
+    * One SV (e.g., SV0) will take care of the `#help` and `#technical-support`
+      channel from now on until the end of T7.
 
 - `T5`: No live casting (same as T4)
 - `T6`: No live casting (same as T4)
