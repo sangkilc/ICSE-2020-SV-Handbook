@@ -11,7 +11,7 @@ the conference.
 
 This handbook should provide you with the main information about your duties at
 ICSE 2020. If you have any questions or suggestions, please feel free to create
-a PR (Pull Request). We will do our best to update this document up to date.
+a PR (Pull Request). We will do our best to keep this document up to date.
 
 # Table of Contents
 
@@ -42,11 +42,11 @@ a PR (Pull Request). We will do our best to update this document up to date.
 
 The whole conference runs by three (plus one for China) independent teams in
 three different time bands. The three time bands are the Pacific, Indian
-(Asian), and Atlantic time band, which will cover `00:00 - 03:00`, `07:00 -
+(Asian), and Atlantic (EU) time band, which will cover `00:00 - 03:00`, `07:00 -
 10:00`, and `15:00 - 18:00` in UTC. For more detailed information, please visit
 the main [ICSE web site](https://conf.researchr.org/home/icse-2020).
 
-Each team will take care of three-hour-long sessions per day. Specifically, each
+Each team will take care of one three-hour-long session per day. Specifically, each
 team will handle regular sessions for two hours, and smaller event sessions,
 such as poster and demo sessions, for one hour.
 
@@ -127,7 +127,7 @@ offline SVs, and CLE SVs.
 ## SV Chairs
 
 SV chairs lead the overall organization of SVs and interface with the general
-chair and live teams. Contact the SV chair in your time band whenever necessary.
+chair and live teams. Although we will try to use Slack for all communication (see below), if you need another way to reach the SV Chairs, you can email icse2020.sv@gmail.com.
 
 - Pacific Time Band: [Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/)
 - Indian (Asian) Time Band: [Jose Miguel Rojas](http://jmrojas.github.io/)
@@ -136,23 +136,30 @@ chair and live teams. Contact the SV chair in your time band whenever necessary.
 ## Slack for All Communication
 
 It is absolutely critical that we communicate effectively and continuously
-during the conference. We will be using Slack fo all communication between
-SVs.
+during the conference. We will be using Slack fo all communication among
+SVs and SV Chairs.
 
 ### Slack Channels
 
-Please join the following channels ASAP.
+Please join the following channels, as appropriate, ASAP.
 
-- `#sv-general` is the main form of communication.
+- `#sv-general` is the main form of communication among SVs and SV Chairs. Chairs will announce any changes to this document or other changes in procedures there
 - `#sv-pacific` is for online SVs in the Pacific shift.
 - `#sv-indian` is for online SVs in the Indian shift.
 - `#sv-atlantic` is for online SVs in the Atlantic shift.
 - `#sv-offline` is for offline SVs.
 - `#sv-cles` is for CLE SVs.
+- `#room-baekje` is for SVs and the live team working on sessions in the Baekje room
+- `#room-goguryeo` is for SVs and the live team working on sessions in the Goguryeo room
+- `#room-silla` is for SVs and the live team working on sessions in the Silla room
+- `#help` is for attendees to use to ask for help in navigating ICSE
+- `#technical-support` is for attendees and others to ask technical questions
+
+
 
 ### Slack Profile
 
-Please set your name correctly, and register your photo.
+Please set your name correctly, and register your photo. 
 
 ### Slack Display Name
 
@@ -168,19 +175,18 @@ Please make sure to select "don't clear" when you set your status:
 ## Clowdr
 
 All the audiences of ICSE 2020 will be joining
-[Clowdr](https://www.clowdr.org/), which provides a convenient interface for
+[Clowdr](icse2020.clowdr.org/), which provides a convenient interface for
 virtual conferences. At a high level, Clowdr joins a youtube live video and a
 Slido room in a single page, so that the audiences can easily ask questions
-while watching the video. Once you logged into Clowdr, you will be able to see
+while watching the video. Once you are ogged into Clowdr, you will be able to see
 on-going live sessions (by clicking the Sessions button). If you enter one of
-the sessions, then you will be able to see an embeded youtube video in the page
+the sessions, then you will be able to see an embedded youtube video in the page
 as well as an embedded Slido form, which can be used to ask questions:
 
 ![](pictures/clowdr.png).
 
-Note that Clowdr has its own chat rooms (this is different from Slack
-channels). Therefore, SVs should monitor both Clowdr and Slack chat during a
-live casting.
+Note that Clowdr has its own chat rooms (which is different from Slack
+channels). During live sessions, the online SV assigned to the session will monitor both Clowdr and Slido (see details below).
 
 ## Description of SV Tasks
 
@@ -190,15 +196,13 @@ Both online and offline SVs have their own expected tasks.
 
 #### Helping Live Casting
 
-- Make sure all the speakers are connected before a session start.
-- Keep track of the time and let the session chair know (via Slack) if a talk
-  goes too long.
-- Move questions from Slack to Slido, and delete questions before a talk begins.
+- Be logged in as admin to Slido, to archive all remaining Slido questions at the beginning of each session, and move questions to the Live panel.
+- Move questions from the Clowdr chat and from Slack to Slido.
 - Check if all the attendees are registered (check free riders).
 
 #### Managing 24-hour Help Desk
 
-We manage a virtual help desk, which runs for 24 hours through the [three
+We manage a virtual help desk through the #help and #technical-support Slack channels, which runs for 24 hours through the [three
 shifts](#sv-shift-plan):
 
 - Pacific time shift: 22:00 - 6:00 UTC
@@ -206,7 +210,7 @@ shifts](#sv-shift-plan):
 - Atlantic time shift: 14:00 - 22:00 UTC
 
 SVs should handle questions and troubleshoot frequently occuring problems (such
-as audio/video issues) with speakers and participants.
+as audio/video issues) with speakers and participants who post questions to the Slack channels.
 
 #### Using Social Media
 
@@ -222,32 +226,44 @@ offline SVs are not bound to any specific time band.
 
 ### CLE SV
 
-CLE SVs support co-located conferences, such as MSR, FormaliSE, etc. Therefore,
+CLE SVs support co-located events, such as MSR, FormaliSE, etc. Therefore,
 their work time largely depends on the schedule of CLEs they support. The main
 tasks of CLE SVs will be mostly the same as the ones of [online SVs](#online-sv):
 their main job is to help session chairs to organize questions, etc.
 
-## Example Scenario
+## Live Session Example Scenario
 
-This example shows how each SV will do during an 8-hour-long shift. We assume
-there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
+This example shows what each online SV will do during an 8-hour-long shift. We assume
+there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shift. THe SVs are numbered in the order they appear on the schedule.
+
+- SV0 is assigned to the Baekje room, and SV3 is the backup
+- SV1 is assigned to the Goguryeo room, and SV4 is the backup
+- SV2 is assigned to the Silla room, and SV5 is the backup
 
 - `T0`: 1 hour before casting
     * All the SVs (SV0, ..., SV5)
         - Join the `#help` and `#technical-support` channel of Slack, and handle
           questions.
         - Join the virtual room (channel) of Slack that you are assigned to.
-        - Know the names of your session chairs.
+        - The primary and backup SV for each room should touch base on the room Slack channel to confirm that the primary is ready to go. If not, the backup should be ready to go. If the primary is ready to go, the backup should focus on monitoring the help channels.
+        - Check the ICSE Program to be familiar with the names of the session chairs and presenters in your sessions (https://2020.icse-conferences.org/program/program-icse-2020?past=Show%20upcoming%20events%20only)
+        - Log in to the admin side of Slido (www.slido.org) with the following credentials:
+          virtual.icse+baejke@gmail.com
+          virtual.icse+goguryeo@gmail.com
+          virtual.icse+silla@gmail.com
+          The password is the same: covidsuckz
+        - Log in to Clowdr and go to your session
+        - Remove (or "archive") any questions in Slido remaining from the previous session
 
+        
 - `T1`: Live casting starts
     * SV0, SV1, SV2 (one SV per each parallel session)
-        - Clean up Slido questions before each talk begins.
-        - Monitor both Slack and Slido, and check if there is any question from
-          Slack, which is not added to Slido. If so, add it to Slido.
-        - Clean up Slido questions whenever they are answered by the speaker.
-        - Monitor the time of each talk and let the session chair know if the
-          talk goes too long.
-    * SV3, SV4, SV5
+        - Archive remaining Slido questions before each talk begins.
+        - Monitor the Slack room channel, the Clowdr chat, and Slido, and check if there are any questions from
+          Slack or Clowdr, which is not added to Slido. If so, copy and paste the question to Slido.
+        - Clean up Slido (i.e. archive) questions whenever they are answered by the speaker.
+        - Approve questions in the Slido Moderator panel that are relevant (i.e. are not about something completely outside the session). NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity
+    * SV3, SV4, SV5 (if not backing up an SV in one of the rooms)
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
@@ -258,8 +274,8 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
 - `T3`: Live casting runs (same as T1)
 
 - `T4`: No live casting
-    * One SV (e.g., SV0) will take care of the `#help` and `#technical-support`
-      channel from now on until the end of T7.
+    * SVs will take care of the `#help` and `#technical-support`
+      channel from now on until the end of T7, or other tasks as assigned through the other Slack channels
 
 - `T5`: No live casting (same as T4)
 - `T6`: No live casting (same as T4)
@@ -269,24 +285,22 @@ there are 6 SVs (SV0, SV1, ..., SV5) working concurrently during the shift.
 
 - When do my duties finish?
     - We expect you to be available during your shift (i.e., for 8 hours). If
-      your main role is end, then we will assign you something else. Please
+      your main role is ended, then we will assign you something else. Please
       remain online in Slack.
 
 - What kind of tools do we use to organize the virtual conference?
-    - We expect you to use Slido,
-      [Zoom](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials),
+    - We expect you to use Slido, Clowdr,
       and Slack. Especially, Slido will be our
       main Q&A platform. Therefore, you should learn what it is by watching some
       tutorials such as [this](https://www.youtube.com/watch?v=3jMf_BnZ1B8).
 
 - Do we also use Zoom chat?
     - No. Our main communication channel should be Slack. We will ignore chats
-      from Zoom.
+      from Zoom. In fact, you will have no reason to use Zoom at all, although the session chairs, presenters, and Live! team members will be joining the sessions via Zoom.
 
-- Will we use Slack for Q&A?
+- Will we use Slack or Clowdr for Q&A?
     - Yes, but Slido should be the main Q&A platform. One of SV's tasks is to
-      put questions from Slack chats to Slido. Note that we will not use Zoom
-      chat.
+      put questions from Slack channels and the Clowdr chat to Slido. 
 
 - What is a green-room channel?
     - There is a private slack channel called "green-room". This is where
