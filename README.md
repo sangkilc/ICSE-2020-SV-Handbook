@@ -247,11 +247,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - Join the virtual room (channel) of Slack that you are assigned to.
         - The primary and backup SV for each room should touch base on the room Slack channel to confirm that the primary is ready to go. If not, the backup should be ready to go. If the primary is ready to go, the backup should focus on monitoring the help channels.
         - Check the ICSE Program to be familiar with the names of the session chairs and presenters in your sessions (https://2020.icse-conferences.org/program/program-icse-2020?past=Show%20upcoming%20events%20only)
-        - Log in to the admin side of Slido (www.slido.org) with the following credentials:
-          virtual.icse+baejke@gmail.com
-          virtual.icse+goguryeo@gmail.com
-          virtual.icse+silla@gmail.com
-          The password is the same: covidsuckz
+        - Log in to the admin side of Slido (www.slido.org) with the credentials we gave.
         - Log in to Clowdr and go to your session
         - Remove (or "archive") any questions in Slido remaining from the previous session
 
