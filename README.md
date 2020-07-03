@@ -149,7 +149,11 @@ Please join the following channels, as appropriate, ASAP.
 - `#sv-atlantic` is for online SVs in the Atlantic shift. Use this during your shift for technical issues and questions.
 - `#sv-offline` is for offline SVs.
 - `#sv-cles` is for CLE SVs.
-- `green-room-[timeband]-[room] - e.g. green-room-atlantic-baekje - for the SVs and others working on sessions in that room during that time band. You will have access only to the green rooms in which you are working. Use these channels to communicate with the session chairs, presenters, and Live! team members.
+- `#green-room-[timeband]-[room]` - e.g. `#green-room-atlantic-baekje` - for the
+  SVs and others working on sessions in that room during that time band. You
+  will have access only to the green rooms in which you are working. Use these
+  channels to communicate with the session chairs, presenters, and Live! team
+  members.
 - `#room-baekje` is public and may be used by audience members in the Baekje room
 - `#room-goguryeo` is public and may be used by audience members in the Goguryeo room
 - `#room-silla` is public and may be used by audience members in the Silla room
@@ -160,7 +164,7 @@ Please join the following channels, as appropriate, ASAP.
 
 ### Slack Profile
 
-Please set your name correctly, and register your photo. 
+Please set your name correctly, and register your photo.
 
 ### Slack Display Name
 
@@ -212,7 +216,8 @@ shifts](#sv-shift-plan):
 SVs should handle questions and troubleshoot frequently occuring problems (such
 as audio/video issues) with speakers and participants who post questions to the Slack channels.
 
-If you have a question or problem that you cannot resolve yourself, you can ask for help on your timeband channel (e.g. sv-pacific).
+If you have a question or problem that you cannot resolve yourself, you can ask
+for help on your timeband channel (e.g. `#sv-pacific`).
 
 #### Using Social Media
 
@@ -254,7 +259,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - Remove (or "archive") any questions in Slido remaining from the previous session
         - Log in to Clowdr and go to your session
 
-        
+
 - `T1`: Live casting starts
     * SV0, SV1, SV2 (one SV per each parallel session)
         - Archive remaining Slido questions before each talk begins.
@@ -268,7 +273,8 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
-        - If you have a question or problem that you cannot resolve yourself, you can ask for help on your timeband channel (e.g. sv-pacific).
+        - If you have a question or problem that you cannot resolve yourself,
+          you can ask for help on your timeband channel (e.g. `#sv-pacific`).
         - If you have spare time, then advertise talks on social media.
 
 - `T2`: Live casting runs (same as T1)
@@ -302,7 +308,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
 
 - Will we use Slack or Clowdr for Q&A?
     - Yes, but Slido should be the main Q&A platform. One of SV's tasks is to
-      put questions from Slack channels and the Clowdr chat to Slido. 
+      put questions from Slack channels and the Clowdr chat to Slido.
 
 - What is a green-room channel?
     - There is a private slack channel called "green-room". This is where
