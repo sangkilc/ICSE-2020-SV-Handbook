@@ -143,15 +143,16 @@ SVs and SV Chairs.
 
 Please join the following channels, as appropriate, ASAP.
 
-- `#sv-general` is the main form of communication among SVs and SV Chairs. Chairs will announce any changes to this document or other changes in procedures there
-- `#sv-pacific` is for online SVs in the Pacific shift.
-- `#sv-indian` is for online SVs in the Indian shift.
-- `#sv-atlantic` is for online SVs in the Atlantic shift.
+- `#sv-general` is the main form of communication among SVs and SV Chairs. Chairs will announce any changes to this document or other changes in procedures here
+- `#sv-pacific` is for online SVs in the Pacific shift. Use this during your shift for technical issues and questions.
+- `#sv-indian` is for online SVs in the Indian shift. Use this during your shift for technical issues and questions.
+- `#sv-atlantic` is for online SVs in the Atlantic shift. Use this during your shift for technical issues and questions.
 - `#sv-offline` is for offline SVs.
 - `#sv-cles` is for CLE SVs.
-- `#room-baekje` is for SVs and the live team working on sessions in the Baekje room
-- `#room-goguryeo` is for SVs and the live team working on sessions in the Goguryeo room
-- `#room-silla` is for SVs and the live team working on sessions in the Silla room
+- `green-room-[timeband]-[room] - e.g. green-room-atlantic-baekje - for the SVs and others working on sessions in that room during that time band. You will have access only to the green rooms in which you are working. Use these channels to communicate with the session chairs, presenters, and Live! team members.
+- `#room-baekje` is public and may be used by audience members in the Baekje room
+- `#room-goguryeo` is public and may be used by audience members in the Goguryeo room
+- `#room-silla` is public and may be used by audience members in the Silla room
 - `#help` is for attendees to use to ask for help in navigating ICSE
 - `#technical-support` is for attendees and others to ask technical questions
 
@@ -178,7 +179,7 @@ All the audiences of ICSE 2020 will be joining
 [Clowdr](icse2020.clowdr.org/), which provides a convenient interface for
 virtual conferences. At a high level, Clowdr joins a youtube live video and a
 Slido room in a single page, so that the audiences can easily ask questions
-while watching the video. Once you are ogged into Clowdr, you will be able to see
+while watching the video stream. Once you are logged into Clowdr, you will be able to see
 on-going live sessions (by clicking the Sessions button). If you enter one of
 the sessions, then you will be able to see an embedded youtube video in the page
 as well as an embedded Slido form, which can be used to ask questions:
@@ -186,7 +187,7 @@ as well as an embedded Slido form, which can be used to ask questions:
 ![](pictures/clowdr.png).
 
 Note that Clowdr has its own chat rooms (which is different from Slack
-channels). During live sessions, the online SV assigned to the session will monitor both Clowdr and Slido (see details below).
+channels). During live sessions, the online SV assigned to the session will monitor both Clowdr and Slido, as well as certain Slack channels (see details below).
 
 ## Description of SV Tasks
 
@@ -196,9 +197,8 @@ Both online and offline SVs have their own expected tasks.
 
 #### Helping Live Casting
 
-- Be logged in as admin to Slido, to archive all remaining Slido questions at the beginning of each session, and move questions to the Live panel.
+- Be logged in as admin to Slido, to archive all remaining Slido questions at the beginning of each session, and move questions to the Live panel. Login credentials for Slido are pinned in the time band channels (e.g. #sv-pacific) on Slack.
 - Move questions from the Clowdr chat and from Slack to Slido.
-- Check if all the attendees are registered (check free riders).
 
 #### Managing 24-hour Help Desk
 
@@ -211,6 +211,8 @@ shifts](#sv-shift-plan):
 
 SVs should handle questions and troubleshoot frequently occuring problems (such
 as audio/video issues) with speakers and participants who post questions to the Slack channels.
+
+If you have a question or problem that you cannot resolve yourself, you can ask for help on your timeband channel (e.g. sv-pacific).
 
 #### Using Social Media
 
@@ -242,27 +244,31 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
 
 - `T0`: 1 hour before casting
     * All the SVs (SV0, ..., SV5)
-        - Join the `#help` and `#technical-support` channel of Slack, and handle
+        - Join the `#help` and `#technical-support` channels of Slack, and handle
           questions.
-        - Join the virtual room (channel) of Slack that you are assigned to.
-        - The primary and backup SV for each room should touch base on the room Slack channel to confirm that the primary is ready to go. If not, the backup should be ready to go. If the primary is ready to go, the backup should focus on monitoring the help channels.
+        - Join the green room channel of Slack that you are assigned to.
+        - The primary and backup SV for each room should touch base with each other on the green room Slack channel or via DM to confirm that the primary is ready to go. If not, the backup should be ready to go. If the primary is ready to go, the backup should focus on monitoring the help channels.
         - Check the ICSE Program to be familiar with the names of the session chairs and presenters in your sessions (https://2020.icse-conferences.org/program/program-icse-2020?past=Show%20upcoming%20events%20only)
-        - Log in to the admin side of Slido (www.slido.org) with the credentials we gave.
-        - Log in to Clowdr and go to your session
+        - Check in with the session chair to go over the procedure for handling questions. The normal procedure is for you to copy and paste all questions into Slido and the session chair will choose questions from the Slido interface on Clowdr. However, the session chair might prefer that you copy and paste the questions somewhere else for them to see, so ask them.
+        - Log in to the admin side of Slido (www.slido.org) with the credentials we gave (these credentials are pinned in the slack channels for each time band - atlantic, pacific, indian).
         - Remove (or "archive") any questions in Slido remaining from the previous session
+        - Log in to Clowdr and go to your session
 
         
 - `T1`: Live casting starts
     * SV0, SV1, SV2 (one SV per each parallel session)
         - Archive remaining Slido questions before each talk begins.
         - Monitor the Slack room channel, the Clowdr chat, and Slido, and check if there are any questions from
-          Slack or Clowdr, which is not added to Slido. If so, copy and paste the question to Slido.
-        - Clean up Slido (i.e. archive) questions whenever they are answered by the speaker.
-        - Approve questions in the Slido Moderator panel that are relevant (i.e. are not about something completely outside the session). NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity
+          Slack or Clowdr, which are not added to Slido. If so, copy and paste the question to Slido, and add the name of the questioner.
+        - Clean up Slido (i.e. mark answered) questions whenever they are answered by the speaker.
+        - Highlight the question being discussed in Slido
+        - NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity. You do not need to worry about this.
+        - If a question is posted that is not about the presentation, but a technical issue or question, if you cannot immediately answer/resolve the question yourself, ask the participant asking the question to post their question on the #help or #technical-support channels on Slack.
     * SV3, SV4, SV5 (if not backing up an SV in one of the rooms)
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
+        - If you have a question or problem that you cannot resolve yourself, you can ask for help on your timeband channel (e.g. sv-pacific).
         - If you have spare time, then advertise talks on social media.
 
 - `T2`: Live casting runs (same as T1)
@@ -304,7 +310,3 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
       audience should be in the room. Online SVs will be invited to a green room
       channel before their shift.
 
-- Where to find the list of attendees? How do we check if audiences are properly
-  registered?
-    - We will distribute a document (potentially a Google doc) before your duty
-      begins.
