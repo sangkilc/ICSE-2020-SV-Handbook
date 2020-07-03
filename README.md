@@ -35,7 +35,7 @@ a PR (Pull Request). We will do our best to keep this document up to date.
       - [Using Social Media](#using-social-media)
     - [Offline SV](#offline-sv)
     - [CLE SV](#cle-sv)
-  - [Example Scenario](#example-scenario)
+  - [Live Session Example Scenario](#live-session-example-scenario)
   - [FAQs](#faqs)
 
 ## Understanding Virtual ICSE
@@ -255,20 +255,20 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - The primary and backup SV for each room should touch base with each other on the green room Slack channel or via DM to confirm that the primary is ready to go. If not, the backup should be ready to go. If the primary is ready to go, the backup should focus on monitoring the help channels.
         - Check the ICSE Program to be familiar with the names of the session chairs and presenters in your sessions (https://2020.icse-conferences.org/program/program-icse-2020?past=Show%20upcoming%20events%20only)
         - Check in with the session chair to go over the procedure for handling questions. The normal procedure is for you to copy and paste all questions into Slido and the session chair will choose questions from the Slido interface on Clowdr. However, the session chair might prefer that you copy and paste the questions somewhere else for them to see, so ask them.
-        - Log in to the admin side of Slido (www.slido.org) with the credentials we gave (these credentials are pinned in the slack channels for each time band - atlantic, pacific, indian).
-        - Remove (or "archive") any questions in Slido remaining from the previous session
+        - Log in into [Slido as admin](https://admin.sli.do/) using the right credentials (these credentials are pinned in the slack channels for each time band - atlantic, pacific, indian).
+        - Remove (or "archive") any questions in Slido remaining from the previous session (i.e., [Archive all questions](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive-all))
         - Log in to Clowdr and go to your session
 
 
 - `T1`: Live casting starts
     * SV0, SV1, SV2 (one SV per each parallel session)
-        - Archive remaining Slido questions before each talk begins.
+        - Make sure the embedded Sli.do board is empty before each talk begins, if not, [archive all questions](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive-all).
         - Monitor the Slack room channel, the Clowdr chat, and Slido, and check if there are any questions from
           Slack or Clowdr, which are not added to Slido. If so, copy and paste the question to Slido, and add the name of the questioner.
-        - Clean up Slido (i.e. mark answered) questions whenever they are answered by the speaker.
-        - Highlight the question being discussed in Slido
+        - When a question is being addressed by a presenter, [highlight it](https://help.sli.do/650028-Manage-audience-questions#highlight-questions).
+        - After a question has been *explicitly* answered by the presenter, [mark it as answered](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive)).
         - NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity. You do not need to worry about this.
-        - If a question is posted that is not about the presentation, but a technical issue or question, if you cannot immediately answer/resolve the question yourself, ask the participant asking the question to post their question on the #help or #technical-support channels on Slack.
+        - If a question is posted that is not about the presentation, but a technical issue or question, if you cannot immediately answer/resolve the question yourself, ask the participant asking the question to post their question on the `#help` or `#technical-support` channels on Slack.
     * SV3, SV4, SV5 (if not backing up an SV in one of the rooms)
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
