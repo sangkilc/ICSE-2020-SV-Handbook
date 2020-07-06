@@ -180,7 +180,7 @@ Please make sure to select "don't clear" when you set your status:
 ## Clowdr
 
 All the audiences of ICSE 2020 will be joining
-[Clowdr](icse2020.clowdr.org/), which provides a convenient interface for
+[Clowdr](https://icse2020.clowdr.org/), which provides a convenient interface for
 virtual conferences. At a high level, Clowdr joins a youtube live video and a
 Slido room in a single page, so that the audiences can easily ask questions
 while watching the video stream. Once you are logged into Clowdr, you will be able to see
