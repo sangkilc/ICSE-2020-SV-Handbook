@@ -291,28 +291,28 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
 
 ## FAQs
 
-- When do my duties finish?
-    - We expect you to be available during your shift (i.e., for 8 hours). If
-      your main role is ended, then we will assign you something else. Please
-      remain online in Slack.
+Here, we summarize frequently asked question from people. You may use this to answer questions from the
+channels.
 
-- What kind of tools do we use to organize the virtual conference?
+1. What kind of tools do we use to organize the virtual conference?
     - We expect you to use Slido, Clowdr,
       and Slack. Especially, Slido will be our
       main Q&A platform. Therefore, you should learn what it is by watching some
       tutorials such as [this](https://www.youtube.com/watch?v=3jMf_BnZ1B8).
 
-- Do we also use Zoom chat?
+1. Do we also use Zoom chat?
     - No. Our main communication channel should be Slack. We will ignore chats
       from Zoom. In fact, you will have no reason to use Zoom at all, although the session chairs, presenters, and Live! team members will be joining the sessions via Zoom.
 
-- Will we use Slack or Clowdr for Q&A?
+1. Will we use Slack or Clowdr for Q&A?
     - Yes, but Slido should be the main Q&A platform. One of SV's tasks is to
       put questions from Slack channels and the Clowdr chat to Slido.
 
-- What is a green-room channel?
+1. What is a green-room channel?
     - There is a private slack channel called "green-room". This is where
       speakers, session chairs, live team members, and SVs will be in; no
       audience should be in the room. Online SVs will be invited to a green room
       channel before their shift.
 
+1. Where can I access youtube live videos?
+    - You should be able to see youtube links in the live rooms of `clowdr`.
