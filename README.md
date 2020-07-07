@@ -319,3 +319,6 @@ channels.
 
 1. Where can I access all the youtube videos?
     - All the videos are already uploaded in here: https://www.youtube.com/c/ICSEconf/playlists
+
+1. Where can I access the proceedings?
+    - Check out the pinned item on Slack channel `#technical-support`. You should be able to find id and password there.
