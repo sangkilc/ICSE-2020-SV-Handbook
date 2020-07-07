@@ -203,6 +203,8 @@ Both online and offline SVs have their own expected tasks.
 
 - Be logged in as admin to Slido, to archive all remaining Slido questions at the beginning of each session, and move questions to the Live panel. Login credentials for Slido are pinned in the time band channels (e.g. #sv-pacific) on Slack.
 - Move questions from the Clowdr chat and from Slack to Slido.
+- Move unanswered questions from Slido to the Clowdr chat room; move it to a
+  paper-specific chat room in Clowdr.
 
 #### Managing 24-hour Help Desk
 
@@ -269,6 +271,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - After a question has been *explicitly* answered by the presenter, [mark it as answered](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive)).
         - NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity. You do not need to worry about this.
         - If a question is posted that is not about the presentation, but a technical issue or question, if you cannot immediately answer/resolve the question yourself, ask the participant asking the question to post their question on the `#help` or `#technical-support` channels on Slack.
+        - When a talk is over. Move remaining questions to a paper-specific pop-up chat in clowdr, which can be accessed by clicking the paper title underneath the youtube video, before archiving them.
     * SV3, SV4, SV5 (if not backing up an SV in one of the rooms)
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
