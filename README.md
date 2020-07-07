@@ -316,3 +316,6 @@ channels.
 
 1. Where can I access youtube live videos?
     - You should be able to see youtube links in the live rooms of `clowdr`.
+
+1. Where can I access all the youtube videos?
+    - All the videos are already uploaded in here: https://www.youtube.com/c/ICSEconf/playlists
