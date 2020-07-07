@@ -322,3 +322,6 @@ channels.
 
 1. Where can I access the proceedings?
     - Check out the pinned item on Slack channel `#technical-support`. You should be able to find id and password there.
+
+1. I am a presenter, but I have not yet been invited to the green rooms.
+    - In this case, SVs should check which virtual room (Silla, Baekje, or Goguryeo) the presenter should be in, and invite them to the right green room channel.
