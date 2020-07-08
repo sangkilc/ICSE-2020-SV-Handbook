@@ -201,10 +201,11 @@ Both online and offline SVs have their own expected tasks.
 
 #### Helping Live Casting
 
-- Be logged in as admin to Slido, to archive all remaining Slido questions at the beginning of each session, and move questions to the Live panel. Login credentials for Slido are pinned in the time band channels (e.g. #sv-pacific) on Slack.
-- Move questions from the Clowdr chat and from Slack to Slido.
-- Move unanswered questions from Slido to the Clowdr chat room; move it to a
-  paper-specific chat room in Clowdr.
+- Be logged in as admin to Slido. Login credentials for Slido are pinned in the time band channels (e.g. #sv-pacific) on Slack.
+- Before each session, post a message something like "Welcome to Session <session number/name>. This Slack channel can be used to post questions during the presentations and to continue discussion with presenters, authors, and participants in this session." to the public room channel on Slack.
+- Also before each session, create a list of the papers that will be presented in that session, including the paper titles and a link to the PDFs. The PDFs can be found in the proceedings (at https://conferences.computer.org/icse/. username: icse20, password: conf20//). Then post a message to the public room channel on Slack that says "Welcome to <session id and name>. The following papers will be presented in this session:" and then the list of papers.
+- During each presentations, copy questions from the Clowdr chat and from Slack to Slido.
+- At the end of each talk, copy unanswered questions from Slido to the paper-specific chat room in Clowdr and to the public room channel in Slack, then archive those questions in Slido (logged in as admin).
 
 #### Managing 24-hour Help Desk
 
@@ -260,6 +261,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - Log in into [Slido as admin](https://admin.sli.do/) using the right credentials (these credentials are pinned in the slack channels for each time band - atlantic, pacific, indian).
         - Remove (or "archive") any questions in Slido remaining from the previous session (i.e., [Archive all questions](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive-all))
         - Log in to Clowdr and go to your session
+        - Create the messages you will be posting to the public Slack channel for your room (see above) before each session.
 
 
 - `T1`: Live casting starts
@@ -271,14 +273,14 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
         - After a question has been *explicitly* answered by the presenter, [mark it as answered](https://help.sli.do/985101-What-are-archived-and-answered-questions?r=1#archive)).
         - NOTE: Slido automatically flags questions with inappropriate content, e.g. profanity. You do not need to worry about this.
         - If a question is posted that is not about the presentation, but a technical issue or question, if you cannot immediately answer/resolve the question yourself, ask the participant asking the question to post their question on the `#help` or `#technical-support` channels on Slack.
-        - When a talk is over. Move remaining questions to a paper-specific pop-up chat in clowdr, which can be accessed by clicking the paper title underneath the youtube video, before archiving them.
+        - When a talk is over. Move remaining questions to a paper-specific pop-up chat in clowdr, which can be accessed by clicking the paper title underneath the youtube video, before archiving them. Also copy them to the public room channel in Slack, including if possible the title of the presentation, the name of the presenter, and the name of the people who posted each question.
     * SV3, SV4, SV5 (if not backing up an SV in one of the rooms)
         - Take questions from the `#help` and `#technical-support` channel.
         - If necessary, you will make an individual connection with a person and
           troubleshoot their problems (mostly audio/video issues).
         - If you have a question or problem that you cannot resolve yourself,
           you can ask for help on your timeband channel (e.g. `#sv-pacific`).
-        - If you have spare time, then advertise talks on social media.
+        - If you have spare time, then advertise talks on social media and "mingle" in some of the online virtual rooms on Clowdr.
 
 - `T2`: Live casting runs (same as T1)
 
@@ -286,7 +288,7 @@ there are 6 online SVs (SV0, SV1, ..., SV5) working concurrently during the shif
 
 - `T4`: No live casting
     * SVs will take care of the `#help` and `#technical-support`
-      channel from now on until the end of T7, or other tasks as assigned through the other Slack channels
+      channel, mingle in the various virtual rooms on Clowdr, or perform other tasks as assigned through the other Slack channels, from now on until the end of T7.
 
 - `T5`: No live casting (same as T4)
 - `T6`: No live casting (same as T4)
@@ -305,7 +307,7 @@ channels.
 
 1. Do we also use Zoom chat?
     - No. Our main communication channel should be Slack. We will ignore chats
-      from Zoom. In fact, you will have no reason to use Zoom at all, although the session chairs, presenters, and Live! team members will be joining the sessions via Zoom.
+      from Zoom. In fact, you will have no reason to use Zoom at all during the technical presentations, although the session chairs, presenters, and Live! team members will be joining the sessions via Zoom.
 
 1. Will we use Slack or Clowdr for Q&A?
     - Yes, but Slido should be the main Q&A platform. One of SV's tasks is to
